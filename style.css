@@ -18,7 +18,6 @@ body {
 
 #profile-name {
     text-align: center;
-<<<<<<< HEAD
 }
 
 #footer {
@@ -29,16 +28,10 @@ body {
 }
 
 #header {
->>>>>>> development-1.0
     width: 100%;
     height: 50px;
     line-height: 50px;
     background-color: burlywood;
     text-align: center;
     color: white;
-<<<<<<< HEAD
  }
-=======
- }
->>>>>>> header
->>>>>>> development-1.0
